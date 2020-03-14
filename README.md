@@ -8,7 +8,7 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
-[Movie Rating Prediction Example] (https://www.kaggle.com/sherinclaudia/movie-rating-prediction/notebook)
+[Movie Rating Prediction Example] (https://www.kaggle.com/sherinclaudia/movie-rating-prediction/notebook/)
 
 
 ## Movie Rating Scale:
