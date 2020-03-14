@@ -5,4 +5,5 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 ## Resources:
 [Open Movie Database API](http://www.omdbapi.com/)
+
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
