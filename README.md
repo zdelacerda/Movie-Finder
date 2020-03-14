@@ -14,6 +14,8 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 [Movie Reccomendation System (fast.ai for PyTorch)](https://towardsdatascience.com/fast-ai-season-1-episode-5-1-movie-recommendation-using-fastai-a53ed8e41269)
 
+[Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
+
 
 
 
