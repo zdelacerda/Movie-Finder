@@ -7,3 +7,12 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 [Open Movie Database API](http://www.omdbapi.com/)
 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+
+
+## Movie Rating Scale:
+10 - Masterpiece
+9 - Extremely Good
+8 - Very Good
+7 - Entertaining
+6 - Barely Entertaining
+1-5 - Shit
