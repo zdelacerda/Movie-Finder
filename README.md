@@ -10,9 +10,10 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 
 ## Movie Rating Scale:
-10 - Masterpiece
-9 - Extremely Good
-8 - Very Good
-7 - Entertaining
-6 - Barely Entertaining
-1-5 - Shit
+10: Masterpiece
+9: Great
+8: Very Good
+7: Good (Entertaining)
+5-6: Average (Barely Entertaining)
+3-4: Bad (Thought About Leaving The Theater)
+1-2: Horrible (Probably Didn't Finish )
