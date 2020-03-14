@@ -1,4 +1,4 @@
-Program Functionality:
+## Program Functionality
 
 UI: Web or mobile app?
 
