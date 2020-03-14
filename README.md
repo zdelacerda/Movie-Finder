@@ -9,8 +9,12 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
 [Movie Rating Prediction Example](https://www.kaggle.com/sherinclaudia/movie-rating-prediction/notebook/)
+
 [Collaborative Filtering](https://codeburst.io/explanation-of-recommender-systems-in-information-retrieval-13077e1d916c)
+
 [Movie Reccomendation System w/ fast.ai for PyTorch](https://towardsdatascience.com/fast-ai-season-1-episode-5-1-movie-recommendation-using-fastai-a53ed8e41269)
+
+
 
 
 ## Movie Rating Scale:
