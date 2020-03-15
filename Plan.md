@@ -9,9 +9,12 @@
 
 ## Functionality
 1. Open
-  * Scrape from IMDb using OMDb API and Beautiful Soup
+   * Scrape from IMDb using OMDb API and Beautiful Soup
+     - Overall user ratings
+     - My user ratings
+     - Box office movies from favorite theater
 2. Read
-  *Feed data into training model*
+  * Feed data into training model
 3. Write
   *Send notification when interesting movie found*
 
