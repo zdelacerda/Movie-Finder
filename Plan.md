@@ -1,13 +1,19 @@
 ## Program Plan
+**Goal 1**: Send alert when potentially interesting movie is playing at my favorite cinema
+
+**Goal 2**: Predict my rating for any given movie
 
 **UI**: Web or mobile app?
 
 **Notifcations**: Text or Email?
 
 ## Functionality
-**Purpose 1**: Send alert when potentially interesting movie is playing at my favorite cinema
-
-**Purpose 2**: Predict my rating for any given movie
+1. Open
+  * Scrape from IMDb using OMDb API and Beautiful Soup
+2. Read
+  *Feed data into training model*
+3. Write
+  *Send notification when interesting movie found*
 
 
 ## TODO
