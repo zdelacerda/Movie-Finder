@@ -20,9 +20,9 @@
 2. Retrieve dataset from API
 3. Train
 4. Setup alert system
-  1. Check box office movies
-  2. Compare with model
-  3. Send notification
+  - Check box office movies
+  - Compare with model
+  - Send notification
 5. Find a way to predict rating of given movie
 6. **UI**: Web or mobile app?
 7. **Notifcations**: Text or Email?
