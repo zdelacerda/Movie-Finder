@@ -12,13 +12,13 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 [Collaborative Filtering](https://codeburst.io/explanation-of-recommender-systems-in-information-retrieval-13077e1d916c)
 
-[Movie Reccomendation System (requries list of users)](https://towardsdatascience.com/fast-ai-season-1-episode-5-1-movie-recommendation-using-fastai-a53ed8e41269)
+[x Movie Reccomendation System (requries list of users)](https://towardsdatascience.com/fast-ai-season-1-episode-5-1-movie-recommendation-using-fastai-a53ed8e41269)
 
 [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
 [Soup with IMDb example](https://www.dataquest.io/blog/web-scraping-beautifulsoup/)
 
-[Better IMDb example](https://medium.com/@kimdang229/python-and-beautifulsoup-web-scraping-tutorial-1d47e7a38fab)
+[o Better IMDb example](https://medium.com/@kimdang229/python-and-beautifulsoup-web-scraping-tutorial-1d47e7a38fab)
 
 
 
