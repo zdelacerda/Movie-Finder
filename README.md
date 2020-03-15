@@ -12,6 +12,8 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 [Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
 ### Machine Learning
+[*4 Rengines to Predict Movie Taste](https://towardsdatascience.com/the-4-recommendation-engines-that-can-predict-your-movie-tastes-109dc4e10c52)
+
 [Movie Rating Prediction Example](https://www.kaggle.com/sherinclaudia/movie-rating-prediction/notebook/)
 
 [Collaborative Filtering](https://codeburst.io/explanation-of-recommender-systems-in-information-retrieval-13077e1d916c)
