@@ -8,15 +8,15 @@
 **Notifcations**: Text or Email?
 
 ## Functionality
-1. Open
+1. ***Get***
    * Scrape from IMDb using OMDb API and Beautiful Soup
      - Overall user ratings
      - My user ratings
      - Box office movies from favorite theater
-2. Read
-  * Feed data into training model
-3. Write
-  *Send notification when interesting movie found*
+2. ***Evaluate***
+    * Feed data into training model
+3. ***Return***
+    * Send notification when interesting movie found
 
 
 ## TODO
