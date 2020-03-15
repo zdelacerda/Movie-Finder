@@ -10,7 +10,10 @@
      - My user ratings
      - Box office movies from favorite theater
 2. **Evaluate**
-    * Feed data into training model
+    1. *Content-based: if you like an item, then you will also like a "similar" item
+      * Flow: input=newMovie -> return=listOfRelatedMovies ~ compare list with users list of movies/ratings for result
+    2. Item-Item Collaborative Filtering: find movie's look-alike, reccomend alike movies to the user
+    
 3. **Return**
     * Send notification when interesting movie found
 
