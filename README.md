@@ -18,7 +18,7 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 [Soup with IMDb example](https://www.dataquest.io/blog/web-scraping-beautifulsoup/)
 
-[Another IMDb example](https://medium.com/@kimdang229/python-and-beautifulsoup-web-scraping-tutorial-1d47e7a38fab)
+[Better IMDb example](https://medium.com/@kimdang229/python-and-beautifulsoup-web-scraping-tutorial-1d47e7a38fab)
 
 
 
