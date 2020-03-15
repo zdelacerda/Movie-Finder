@@ -4,23 +4,25 @@ A movie showtime finder (suggested implementation: web or mobile app with email 
 
 
 ## Resources:
+### General
 [Open Movie Database API](http://www.omdbapi.com/)
 
 [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+[Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
+
+### Machine Learning
 [Movie Rating Prediction Example](https://www.kaggle.com/sherinclaudia/movie-rating-prediction/notebook/)
 
 [Collaborative Filtering](https://codeburst.io/explanation-of-recommender-systems-in-information-retrieval-13077e1d916c)
 
 [x Movie Reccomendation System (requries list of users)](https://towardsdatascience.com/fast-ai-season-1-episode-5-1-movie-recommendation-using-fastai-a53ed8e41269)
 
-[Python API Tutorial](https://www.dataquest.io/blog/python-api-tutorial/)
 
+### Web Scraping
 [Soup with IMDb example](https://www.dataquest.io/blog/web-scraping-beautifulsoup/)
 
 [o Better IMDb example](https://medium.com/@kimdang229/python-and-beautifulsoup-web-scraping-tutorial-1d47e7a38fab)
-
-
 
 
 ## Movie Rating Scale:
