@@ -16,13 +16,12 @@
 
 
 ## TODO
-1. Find machine learning algorithm for movie predictions
+1. **UI**: Web or mobile app?
+7. **Notifcations**: Text or Email?Find machine learning algorithm for movie predictions
 2. Retrieve dataset from API
-3. Train
 4. Setup alert system
     - Check box office movies
     - Compare with model
     - Send notification
 5. Find a way to predict rating of given movie
-6. **UI**: Web or mobile app?
-7. **Notifcations**: Text or Email?
+
