@@ -28,5 +28,5 @@ This is a program that notifies you -by text or email- about potentially interes
 
 3-4: Bad (Thought About Leaving The Theater)
 
-1-2: Horrible (Probably Didn't Finish )
+1-2: Horrible (Probably Didn't Finish)
 
