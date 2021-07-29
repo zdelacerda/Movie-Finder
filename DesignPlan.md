@@ -2,15 +2,6 @@
 
 ****
 
-### Objectives
-1. Send alert when potentially interesting movie is playing at the cinema
-
-2. Predict my rating for any given movie
-
-3. Add plug-in to regal app for ticket purchasing
-
-****
-
 ### High Level Flow
 Input user data -> process data/save to userID -> create MovieReferralSystem -> scan box-office movies daily -> if match is found send SMS with movie details
 
