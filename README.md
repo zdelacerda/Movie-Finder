@@ -6,6 +6,15 @@ This is a program that notifies you -by text or email- about potentially interes
 
 ****
 
+### Objectives
+1. Send alert when potentially interesting movie is playing at the cinema
+
+2. Predict user rating for any given movie
+
+3. Add plug-in to regal app for ticket purchasing
+
+****
+
 ## Movie Rating Scale:
 10: Masterpiece
 
